@@ -10,11 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
+- 📝 I regularly write blogs on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
 
 - 💬 Ask me about **Problem Solving and C++**
 
-- 📫 How to reach me **kali.arch.78@gmail.com**
+- 📫 You can reach me at **bhuttor08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

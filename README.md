@@ -1,12 +1,10 @@
-<h3 align="center">A passionate Embedded System Engineer</h3>
+<h3 align="center">A passionate System Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzanbhutto&label=Profile%20views&color=0e75b6&style=flat" alt="ramzanbhutto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzanbhutto" alt="ramzanbhutto" /></a> </p>
 
-- 🔭 I’m currently working on **Ray tracer**
-
-- 🌱 I’m currently learning **Flutter, Python and Lua**
+- 🌱 I’m currently learning **Python, Lua and Assembly**
 
 - 👨‍💻 All of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
 

@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
 
-- 📝 I regularly write blogs on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
+- 📝 I write blogs on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
 
 - 💬 Ask me about **Problem Solving and C++**
 

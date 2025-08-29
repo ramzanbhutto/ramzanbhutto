@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramzanbhutto" alt="ramzanbhutto" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Lua and Assembly**
+- 🌱 I’m currently learning **Python, Assembly and Docker**
 
 - 👨‍💻 All of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
 

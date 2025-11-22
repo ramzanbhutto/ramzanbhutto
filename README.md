@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, Assembly and a bit of technologies**
 
-- 👨‍💻 All of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
+- 👨‍💻 Some of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
 
 - 📝 I write blogs on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
 

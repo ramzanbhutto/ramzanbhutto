@@ -54,7 +54,7 @@
   <a href="https://www.instagram.com/ramzan.bhutto_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="discord.com/users/1283507507859292210" target="_blank">
+  <a href="https://discord.com/users/1283507507859292210" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>  
   </a>
  </div>

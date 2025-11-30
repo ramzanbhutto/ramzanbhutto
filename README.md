@@ -14,8 +14,8 @@
 
 - 🎓 **Software Engineering Student**
 - 💻 Currently practicing **DSA, Competitive Programming, Assembly and a bit of technologies**
-- 👨‍💻 Some of my projects are available at [https://entire-projects-796d044993ed.herokuapp.com/](https://entire-projects-796d044993ed.herokuapp.com/)
-- 📝 I write blogs on [https://ramzanbhutto.github.io/](https://ramzanbhutto.github.io/)
+- 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a>
+- 📝 I write blogs on <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo </a>
 - 📫 Reach me at **bhuttor08@gmail.com**
 
 ---
@@ -28,7 +28,7 @@
 - **Programming Languages:** C, C++, Python
 - **Scriptng Languages:** Bash, Lua
 - **Web Development:** HTML, CSS, javascript
-- **Tools:** Git, GitHub, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen
+- **Tools:** Git, GitHub, Gitlab, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen
 
 ---
 

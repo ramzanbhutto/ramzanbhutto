@@ -22,7 +22,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,html,css,javascript,git,github,neovim,docker,heroku,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,html,css,javascript,git,github,gitlab,vim,docker,heroku,arch)](https://skillicons.dev)
 
 **Languages & Technologies:**
 - **Programming Languages:** C, C++, Python

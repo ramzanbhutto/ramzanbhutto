@@ -27,7 +27,7 @@
 **Languages & Technologies:**
 - **Programming Languages:** Assembly, C, C++, C#, Python, JavaScript
 - **Frontend:** HTML, CSS
-- **Backend:** ASP.NET Core, Authentication (Argon2)
+- **Backend:** ASP.NET Core, Authentication (Argon2id)
 - **Scriptng Languages:** Bash, Lua
 - **Tools:** Git, GitHub, Gitlab, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen, Latex
 

@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Software Engineering Student**
-- 💻 Currently practicing **DSA, Competitive Programming, Assembly and a bit of technologies**
+- 💻 Currently practicing **DSA, Competitive Programming and a bit of technologies**
 - 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a>
 - 📝 I write blogs on <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo </a>
 - 📫 Reach me at **bhuttor08@gmail.com**
@@ -22,13 +22,14 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,bash,lua,html,css,javascript,git,github,gitlab,vim,docker,heroku,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,lua,html,css,javascript,net,git,github,gitlab,vim,docker,heroku,arch)](https://skillicons.dev)
 
 **Languages & Technologies:**
-- **Programming Languages:** C, C++, Python
+- **Programming Languages:** Assembly, C, C++, C#, Python, JavaScript
+- **Frontend:** HTML, CSS
+- **Backend:** ASP.NET Core, Authentication (Argon2)
 - **Scriptng Languages:** Bash, Lua
-- **Web Development:** HTML, CSS, javascript
-- **Tools:** Git, GitHub, Gitlab, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen
+- **Tools:** Git, GitHub, Gitlab, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen, Latex
 
 ---
 

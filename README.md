@@ -14,9 +14,9 @@
 
 - 🎓 **Software Engineering Student**
 - 💻 Currently practicing **DSA, Competitive Programming and a bit of technologies**
-- 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a>
 - 📝 I write blogs on <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo </a>
 - 📫 Reach me at **bhuttor08@gmail.com**
+<!-- - 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a> -->
 
 ---
 

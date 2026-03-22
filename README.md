@@ -49,7 +49,7 @@
 ### Connect with Me!
 
 <div align="left">
-  <a href="https://linkedin.com/in/muhammad-ramzan-555230332" target="_blank">
+  <a href="https://www.linkedin.com/in/ramzan-bhutto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/ramzan.bhutto_" target="_blank">

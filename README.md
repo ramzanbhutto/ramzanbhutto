@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Software Engineering Student**
-- 💻 Currently practicing **DSA, Competitive Programming and a bit of technologies**
+- 💻 Currently practicing **Competitive Programming and backend in ASP.NET Core**
 - 📝 I write blogs on <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo </a>
-- 📫 Reach me at **bhuttor08@gmail.com**
+- 📫 Reach me at **mr.ramzan.bhutto@gmail.com**
 <!-- - 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a> -->
 
 ---
@@ -26,10 +26,10 @@
 
 **Languages & Technologies:**
 - **Programming Languages:** Assembly, C, C++, C#, Python, JavaScript
-- **Frontend:** HTML, CSS
-- **Backend:** ASP.NET Core, Authentication (Argon2id)
+- **Frontend:** HTML, CSS, Avalonia UI
+- **Backend:** ASP.NET Core
 - **Scriptng Languages:** Bash, Lua
-- **Tools:** Git, GitHub, Gitlab, Linux, NeoVim, Docker, Heroku, Hugo, Doxygen, Latex
+- **Tools:** Git, GitHub, Gitlab, Linux, xUnit, CMake, NeoVim, Docker, Heroku, Hugo, Doxygen, Latex
 
 ---
 

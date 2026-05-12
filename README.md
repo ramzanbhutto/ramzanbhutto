@@ -10,26 +10,27 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 **Software Engineering Student**
-- 💻 Currently practicing **Competitive Programming and backend in ASP.NET Core**
-- 📝 I write blogs on <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo </a>
-- 📫 Reach me at **mr.ramzan.bhutto@gmail.com**
-<!-- - 👨‍💻 Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a> -->
+-  Currently into **Competitive Programming, Embedded systems and Systems programming**
+-  Learning full-stack development with **ASP.NET Core** - Web API, MVC and Blazor Web App
+-  Blogs: <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo site</a>
+-  Reach me at **mr.ramzan.bhutto@gmail.com**
+<!-- - Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a> -->
 
 ---
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,lua,html,css,javascript,net,git,github,gitlab,vim,docker,heroku,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,python,bash,lua,html,css,javascript,net,git,github,gitlab,vim,docker,k8s,heroku,arch)](https://skillicons.dev)
 
 **Languages & Technologies:**
 - **Programming Languages:** Assembly, C, C++, C#, Python, JavaScript
-- **Frontend:** HTML, CSS, Avalonia UI
-- **Backend:** ASP.NET Core
+- **Frontend:** Blazor Web App, HTML, CSS
+- **Backend:** ASP.NET Core(Web API and MVC)
+- **Desktop:** Avalonia UI
 - **Scriptng Languages:** Bash, Lua
-- **Tools:** Git, GitHub, Gitlab, Linux, xUnit, CMake, NeoVim, Docker, Heroku, Hugo, Doxygen, Latex
+- **Technologies:** Git, GitHub, Gitlab, Linux, KVM, QEMU, Zephyr RTOS, Docker, Kubernetes, xUnit, CMake, NeoVim, Heroku, Hugo, Doxygen, Latex
 
 ---
 

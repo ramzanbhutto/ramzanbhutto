@@ -12,8 +12,9 @@
 
 ###  About Me
 
--  Currently into **Competitive Programming, Embedded systems and Systems programming**
+-  Currently into **Competitive Programming, Backend engineering and Embedded systems**
 -  Learning full-stack development with **ASP.NET Core** - Web API, MVC and Blazor Web App
+-  Codeforces: <a href="https://codeforces.com/profile/mr_ramzan/" taget="_blank"> mr_ramzan</a>
 -  Blogs: <a href="https://ramzanbhutto.github.io/" taget="_blank"> Hugo site</a>
 -  Reach me at **mr.ramzan.bhutto@gmail.com**
 <!-- - Some of my projects are available <a href="https://entire-projects-796d044993ed.herokuapp.com/" target="_blank">here </a> -->
